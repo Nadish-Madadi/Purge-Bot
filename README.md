@@ -1,5 +1,5 @@
 # Purge-Bot
-A discord bot created using discord.py that can bulk-delete messages.
+A python bot created using discord.py that can bulk-delete messages.
 
 ## How to run the bot
 1. Upload all files into a replit
