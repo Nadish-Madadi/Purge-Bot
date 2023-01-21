@@ -12,7 +12,7 @@ A python bot created using discord.py that can bulk-delete messages.
 3. Create a .env file in Replit
 - Once the file is created copy the application id into a environment variable
 - The below code can be used to get the variable from the .env file named "TOKEN" (this name can be changed but also needs to be changed in the .env file)
-`client.run(os.getenv('TOKEN'))`
+- `client.run(os.getenv('TOKEN'))`
 4. Finally, use UptimeRobot to keep the replit running
 - Once an account has been created, add a new monitor with a http(s) monitor type
 - Add a name for the monitor and paste the link found in the top right pane of replit
