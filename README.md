@@ -16,4 +16,4 @@ A python bot created using discord.py that can bulk-delete messages.
 4. Finally, use UptimeRobot to keep the replit running
 - Once an account has been created, add a new monitor with a http(s) monitor type
 - Add a name for the monitor and paste the link found in the top right pane of replit
-> ![image](https://user-images.githubusercontent.com/75193860/131389713-9a699142-2c3a-4bfc-b127-576f65c32e97.png)
+- ![image](https://user-images.githubusercontent.com/75193860/131389713-9a699142-2c3a-4bfc-b127-576f65c32e97.png)
